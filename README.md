@@ -40,5 +40,5 @@ The Tariff Impact Analyzer by Chad provides a practical, lightweight solution fo
 By visualizing the outputs of the Amazon Tariff analyzer, I turned a functional spreadsheet into a decision support tool. Sellers can now not only run the numbers but also visually interpret how tariff changes affected their profitability — within seconds.
 
 # References
-* ![Chad Rubin's Linkedin Post](https://www.linkedin.com/posts/itschadrubin_ive-been-watching-how-amazon-sellers-are-activity-7318568823220035586-kEsy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7LsMwBUnVlS1WYS6P6rB1jynNSgKzsHm8)
-* ![Copy of Amazon Workbook by Chad](https://docs.google.com/spreadsheets/d/1dbOYrwoGgOVpfTr5o0Tu4CxasLbOwq4hvROPNJgeu9w/edit?usp=sharing)
+* [Chad Rubin's Linkedin Post](https://www.linkedin.com/posts/itschadrubin_ive-been-watching-how-amazon-sellers-are-activity-7318568823220035586-kEsy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7LsMwBUnVlS1WYS6P6rB1jynNSgKzsHm8)
+* [Copy of Amazon Workbook by Chad](https://docs.google.com/spreadsheets/d/1dbOYrwoGgOVpfTr5o0Tu4CxasLbOwq4hvROPNJgeu9w/edit?usp=sharing)
