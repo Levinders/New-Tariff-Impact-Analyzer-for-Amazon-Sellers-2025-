@@ -20,11 +20,23 @@ This project became a small but meaningful example of how data visualization can
 The initial output of the analyzer was rows of spreadsheet, which wasn't very appealing. Used Google sheets to develop appropriate charts for all the calculations and output indicators
 ![Before & New](images/results.png)
 
-This dasbhoard is much clean and appear more helpful to help any Amazon seller take strategic decisions instead of rows of a spreadsheet
+This dasbhoard is much clean and appear more helpful to help any Amazon seller to:
+1. Quickly skim to specific parts of the analyzer
+2. Make strategic decisions by 90% faster
+3. Used for reporting purposes
 ![Before & New](images/Dashboard.png)
+[Link to the new workbook and dashboard](https://lookerstudio.google.com/reporting/b6857eea-2395-4c81-8817-304a932cec7d)
 
 # Chanllenges & Solution
+While formatting and arranging the charts, the tariff output indicators got max error.
+![Error Spreadsheet](images/spreadsheet-error.png)
+
+Traced and recreacted the logic and formulas for each tariff indicators (Pre-Tariff, Tariff Hit, Raise Price, Raise Price + Less Ads)
+![Error Spreadsheet](images/formula-spreadsheet.png)
 
 # Conclusion
+The Tariff Impact Analyzer by Chad provides a practical, lightweight solution for Amazon Sellers to understand balancing pricing and business profitability in the face of the 'trade wars and tariff hike' happening in 2025. Built entirely in Google Sheets, it empowers sellers to make quick, informed decisions without technical barriers. The combination of real time calculations and visual feedback makes it a valuable addition to any seller's toolkit, especially as global trade conditions continue to evolve.
+
+By visualizing the outputs of the Amazon Tariff analyzer, I turned a functional spreadsheet into a decision support tool. Sellers can now not only run the numbers but also visually interpret how tariff changes affected their profitability — within seconds.
 
 # References
