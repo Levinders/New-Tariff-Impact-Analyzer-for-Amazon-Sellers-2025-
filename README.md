@@ -21,7 +21,7 @@ The initial output of the analyzer was rows of spreadsheet, which wasn't very ap
 ![Before & New](images/results.png)
 
 This dasbhoard is much clean and appear more helpful to help any Amazon seller take strategic decisions instead of rows of a spreadsheet
-![Before & New](images/dashboard.png)
+![Before & New](images/Dashboard.png)
 
 # Chanllenges & Solution
 
