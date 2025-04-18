@@ -12,12 +12,16 @@ That same day, Chad shared his workbook and I began working on it — not to cha
 This project became a small but meaningful example of how data visualization can transform the way business owners interpret and act on information.
 
 # Tools Used/Approach Used
-
-# Problem Statement
+* Google Sheets
+* Looker Studio
+* Data Storytelling/Visualization
 
 # Results
-Outcome: Present key results with supporting metrics.
-Evaluation: Define success criteria and how the results were evaluated.
+The initial output of the analyzer was rows of spreadsheet, which wasn't very appealing. Used Google sheets to develop appropriate charts for all the calculations and output indicators
+![Before & New](images/results.png)
+
+This dasbhoard is much clean and appear more helpful to help any Amazon seller take strategic decisions instead of rows of a spreadsheet
+![Before & New](images/dashboard.png)
 
 # Chanllenges & Solution
 
