@@ -29,10 +29,10 @@ This dasbhoard is much clean and appear more helpful to help any Amazon seller t
 
 # Chanllenges & Solution
 While formatting and arranging the charts, the tariff output indicators got max error.
-![Error Spreadsheet](images/spreadsheet-error.png)
+![Error Spreadsheet](images/spreadsheet%20error.png)
 
 Traced and recreacted the logic and formulas for each tariff indicators (Pre-Tariff, Tariff Hit, Raise Price, Raise Price + Less Ads)
-![Error Spreadsheet](images/formula-spreadsheet.png)
+![Error Spreadsheet](images/formula%20spreadsheet.png)
 
 # Conclusion
 The Tariff Impact Analyzer by Chad provides a practical, lightweight solution for Amazon Sellers to understand balancing pricing and business profitability in the face of the 'trade wars and tariff hike' happening in 2025. Built entirely in Google Sheets, it empowers sellers to make quick, informed decisions without technical barriers. The combination of real time calculations and visual feedback makes it a valuable addition to any seller's toolkit, especially as global trade conditions continue to evolve.
@@ -40,3 +40,5 @@ The Tariff Impact Analyzer by Chad provides a practical, lightweight solution fo
 By visualizing the outputs of the Amazon Tariff analyzer, I turned a functional spreadsheet into a decision support tool. Sellers can now not only run the numbers but also visually interpret how tariff changes affected their profitability — within seconds.
 
 # References
+* ![Chad Rubin's Linkedin Post](https://www.linkedin.com/posts/itschadrubin_ive-been-watching-how-amazon-sellers-are-activity-7318568823220035586-kEsy?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD7LsMwBUnVlS1WYS6P6rB1jynNSgKzsHm8)
+* ![Copy of Amazon Workbook by Chad](https://docs.google.com/spreadsheets/d/1dbOYrwoGgOVpfTr5o0Tu4CxasLbOwq4hvROPNJgeu9w/edit?usp=sharing)
