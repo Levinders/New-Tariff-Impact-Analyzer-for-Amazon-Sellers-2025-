@@ -9,9 +9,9 @@ As someone who’s interest is about making data easier to understand, I was imm
 
 That same day, Chad shared his workbook and I began working on it — not to change the logic or calculations, but to elevate the user experience through visuals. I introduced charts and dashboards that translated the outputs into clear narrative visuals. The goal was to make it easier for Amazon sellers using the analyzer to not only compute and see the impact of tariffs, but to see it — instantly and intuitively.
 
-This project became a small but meaningful example of how data visualization can impro the way business owners can interpret and act on information.
+This project became a small but meaningful example of how data visualization can improve the way business owners can interpret and act on information.
 
-# Tools Used/Approach Used
+# Tools/Approach Used
 * Google Sheets
 * Looker Studio
 * Data Storytelling/Visualization
@@ -22,7 +22,7 @@ The initial output of the analyzer was rows of spreadsheet, which wasn't very ap
 
 This dasbhoard is much clean and appear more helpful to help any Amazon seller to:
 1. Quickly skim to specific parts of the analyzer
-2. Make strategic decisions by 90% faster
+2. Make strategic decisions by 95% faster
 3. Used for reporting purposes
 ![Before & New](images/Dashboard.png)
 [Link to the new workbook and dashboard](https://lookerstudio.google.com/reporting/b6857eea-2395-4c81-8817-304a932cec7d)
@@ -31,7 +31,7 @@ This dasbhoard is much clean and appear more helpful to help any Amazon seller t
 While formatting and arranging the charts, the tariff output indicators got max error.
 ![Error Spreadsheet](images/spreadsheet%20error.png)
 
-Traced and recreacted the logic and formulas for each tariff indicators (Pre-Tariff, Tariff Hit, Raise Price, Raise Price + Less Ads)
+What i did was to recreate the logic and formulas for each tariff indicators (Pre-Tariff, Tariff Hit, Raise Price, Raise Price + Less Ads)
 ![Error Spreadsheet](images/formula%20spreadsheet.png)
 
 # Conclusion
