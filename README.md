@@ -18,20 +18,24 @@ This project became a small but meaningful example of how data visualization can
 
 # Results
 The initial output of the analyzer was rows of spreadsheet, which wasn't very appealing. Used Google sheets to develop appropriate charts for all the calculations and output indicators
+
 ![Before & New](images/results.png)
 
 This dasbhoard is much clean and appear more helpful to help any Amazon seller to:
 1. Quickly skim to specific parts of the analyzer
 2. Make strategic decisions by 95% faster
 3. Used for reporting purposes
+   
 ![Before & New](images/Dashboard.png)
 [Link to the new workbook and dashboard](https://lookerstudio.google.com/reporting/b6857eea-2395-4c81-8817-304a932cec7d)
 
 # Chanllenges & Solution
 While formatting and arranging the charts, the tariff output indicators got max error.
+
 ![Error Spreadsheet](images/spreadsheet%20error.png)
 
 What i did was to recreate the logic and formulas for each tariff indicators (Pre-Tariff, Tariff Hit, Raise Price, Raise Price + Less Ads)
+
 ![Error Spreadsheet](images/formula%20spreadsheet.png)
 
 # Conclusion
